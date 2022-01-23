@@ -1,3 +1,2 @@
-# Voiture_automatis-_anti-collision
- <p align="center"> <img src="screen1.png" > </p> 
- <p align="center"> <img src="screen2.png" > </p> 
+<h1 align="center">Voiture_automatis-_anti-collision</h1>
+ <p align="center"> <img src="screen2.jpg" > </p> 
