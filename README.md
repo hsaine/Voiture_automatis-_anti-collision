@@ -82,7 +82,9 @@ pouvoir les contourner en assurant l’asservissement et la régulation de syst�
  
  
  <h1 align="center">Annexe </h1>
+ 
 ```
+
 #include <Servo.h>
 #include <NewPing.h>
 #define SERVO_PIN 3
@@ -202,7 +204,9 @@ void rotateMotor(int rightMotorSpeed, int leftMotorSpeed)
  analogWrite(enableRightMotor, abs(rightMotorSpeed));
  analogWrite(enableLeftMotor, abs(leftMotorSpeed));
 }
+
 ```
+
 
 
 <h1 align="center">Conclusion </h1>
