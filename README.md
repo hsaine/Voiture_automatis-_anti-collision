@@ -46,15 +46,15 @@ pouvoir les contourner en assurant l’asservissement et la régulation de syst�
  
 | Image      | Description |
 | :----: | :----: |
-| <p > <img src="bread.jpg" width="200" > </p> | Placer les leds , résistanceAider à alimenter le projet.       |
-|  <p > <img src="cable.jpg" width="300" > </p>aph   | Carte Arduino avec son cable Arduino USB,Pour téléverser le code        |
-|  <p > <img src="cap.jpg" width="300" > </p>   | Capteur ultrason : détecte obstacle         |
-| <p > <img src="servo.jpg" width="300" > </p>   | Servomotor: il permet un réglage exact de la position de l’angle,de l’accélération et de la vitesse.        |
-| <p > <img src="carte.jpg" width="300" > </p>   | Pilote de moteur L298N : contrôler facilement la direction et la vitesse jusqu’à 2 moteurs à courant continu         |
-| <p > <img src="support.jpg" width="300" > </p>   | Support de 2 pile avec des pille rechargeable,1,9A, 3,6V         |
-| <p > <img src="ti.jpg" width="300" > </p>   | Eteindre et allumer le circuitélectrique        |
-| <p > <img src="chasis.png" width="300" > </p>   | Châssis de véhicule robotisé avec 2 moteurs et 3 roues,pour faire marcher notre projet        |
-| <p > <img src="male-female.jpg" width="300" > </p>   | Transmettre énergie électrique        |
+|  <img src="bread.jpg" width="200" > | Placer les leds , résistanceAider à alimenter le projet.       |
+|   <img src="cable.jpg" width="300" >   | Carte Arduino avec son cable Arduino USB,Pour téléverser le code        |
+|   <img src="cap.jpg" width="300" >    | Capteur ultrason : détecte obstacle         |
+|  <img src="servo.jpg" width="300" >    | Servomotor: il permet un réglage exact de la position de l’angle,de l’accélération et de la vitesse.        |
+|  <img src="carte.jpg" width="300" >    | Pilote de moteur L298N : contrôler facilement la direction et la vitesse jusqu’à 2 moteurs à courant continu         |
+|  <img src="support.jpg" width="300" >    | Support de 2 pile avec des pille rechargeable,1,9A, 3,6V         |
+|  <img src="ti.jpg" width="300" >    | Eteindre et allumer le circuitélectrique        |
+|  <img src="chasis.png" width="300" >    | Châssis de véhicule robotisé avec 2 moteurs et 3 roues,pour faire marcher notre projet        |
+|  <img src="male-female.jpg" width="300" >  | Transmettre énergie électrique        |
 
 
 
