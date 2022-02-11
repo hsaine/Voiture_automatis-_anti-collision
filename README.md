@@ -63,7 +63,7 @@ pouvoir les contourner en assurant l’asservissement et la régulation de syst�
 
 | Graphe des interacteurs      | FAST | SADT     |
 | :---        |    :----:   |          ---: |
-| <p > <img src="inter.jpg"  > </p>      | <p > <img src="fast.jpg" > </p>       |  <p > <img src="sadt.png"  > </p>  |
+|  <img src="inter.jpg" >      |  <img src="fast.jpg" >        |  <img src="sadt.png"  >   |
 
 | Fonction | Description |
 | --- | ----------- |
