@@ -59,13 +59,14 @@ pouvoir les contourner en assurant l’asservissement et la régulation de syst�
 
 
 <h1 align="center">Analyse fonctionnelle </h1>
-| Syntax      | FAST | Test Text     |
-| <p > <img src=".jpg" width="300" > </p>       | <p > <img src=".jpg" width="300" > </p>        | <p > <img src=".jpg" width="300" > </p>    |
+
+| Graphe des interacteurs      | FAST | SADT     |
+| <p > <img src="inter.jpg" width="300" > </p>       | <p > <img src="fast.jpg" width="300" > </p>        | <p > <img src="sadt.jpg" width="300" > </p>    |
 
 
  <h1 align="center">Schéma du robot </h1>
  
- 
+ <p align="center"> <img src="shema.jpg" width="300" > </p>
  
  
  <h1 align="center">Annexe </h1>
