@@ -58,9 +58,23 @@ pouvoir les contourner en assurant l’asservissement et la régulation de syst�
 
 
 
- <h1 align="center"> </h1>
- <p>
-</p>
- <h1 align="center"> </h1>
-<p>
-</p>
+<h1 align="center">Analyse fonctionnelle </h1>
+| Syntax      | FAST | Test Text     |
+| <p > <img src=".jpg" width="300" > </p>       | <p > <img src=".jpg" width="300" > </p>        | <p > <img src=".jpg" width="300" > </p>    |
+
+
+ <h1 align="center">Schéma du robot </h1>
+ 
+ 
+ 
+ 
+ <h1 align="center">Annexe </h1>
+
+
+
+<h1 align="center">Conclusion </h1>
+
+
+<h1 align="center">Contact </h1>
+
+<hsaineayoub77@gmail.com>
