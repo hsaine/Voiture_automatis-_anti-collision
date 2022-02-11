@@ -210,7 +210,13 @@ void rotateMotor(int rightMotorSpeed, int leftMotorSpeed)
 
 
 <h1 align="center">Conclusion </h1>
-
+En conclusion, nous devons avouer que rétrospectivement nous sommes
+satisfaits de ce projet puisque nous avons atteint des nouveaux objectifs et
+des nouvelles technologies.
+Enfin nous ne prétendons pas avoir résoudre le problème pose dans son
+intégrité mais nous sommes par ailleurs convaincus que le travail élaboré
+n'est qu’une étape primaire aussi bien pour une carrière professionnelle que
+pour des études plus approfondies.
 
 <h1 align="center">Contact </h1>
 
